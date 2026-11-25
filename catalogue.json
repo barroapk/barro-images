@@ -1,1 +1,28 @@
-[]
+[
+ {
+  "id": "img:elevage:poussin-chair-1-jour",
+  "version": 1,
+  "fichier": "elevage-poussin-chair-1-jour-v1.webp",
+  "url": "https://cdn.jsdelivr.net/gh/barroapk/barro-images@main/images/elevage-poussin-chair-1-jour-v1.webp",
+  "actif": true,
+  "note": null,
+  "certitude": "choix intérim",
+  "juge": "Claude (choix intérim, avant le juge automatique)",
+  "generateur": "@cf/black-forest-labs/flux-1-schnell",
+  "consigne": "A one-day-old broiler chick standing naturally, filling a good part of the frame. Entirely covered in soft pale yellow down, round fluffy body, short legs, tiny wing stubs covered in down with no real feathers, small natural beak. Three-quarter view, camera at the chick's eye level. Ultra-realistic professional photograph, soft natural light, sharp focus. Plain seamless very light grey studio background (#D9D9D9), no scenery, no strong shadow. Subject centered, fully visible, with space around it. Square format. No text, no label, no logo, no cartoon, no illustration, no deformation, no extra or missing parts.",
+  "date": "2026-11-25T17:57:04.677645+00:00"
+ },
+ {
+  "id": "img:elevage:poulet-chair-6-semaines",
+  "version": 1,
+  "fichier": "elevage-poulet-chair-6-semaines-v1.webp",
+  "url": "https://cdn.jsdelivr.net/gh/barroapk/barro-images@main/images/elevage-poulet-chair-6-semaines-v1.webp",
+  "actif": true,
+  "note": null,
+  "certitude": "choix intérim",
+  "juge": "Claude (choix intérim, avant le juge automatique)",
+  "generateur": "@cf/black-forest-labs/flux-1-schnell",
+  "consigne": "A six-week-old white broiler chicken ready for market, standing naturally. Dense white plumage, very broad developed breast, heavy wide body, short thick yellow legs, small pinkish-red comb, short tail. Three-quarter view, camera at the bird's eye level. Ultra-realistic professional photograph, soft natural light, sharp focus. Plain seamless very light grey studio background (#D9D9D9), no scenery, no strong shadow. Subject centered, fully visible, with space around it. Square format. No text, no label, no logo, no cartoon, no illustration, no deformation, no extra or missing parts.",
+  "date": "2026-11-25T17:57:04.844291+00:00"
+ }
+]
